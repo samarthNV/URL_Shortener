@@ -3,7 +3,7 @@
 
 ## Brief Description
 
-This project is based on C++ language. It is a menu-driven program used to shorten a URL taken as input from the user. OOPs concept used to implement Map from scratch. It contains only one file 
+This project is based on C++ language. It is a menu-driven program used to shorten a URL taken as input from the user. OOPs concept used to implement Map from scratch. It contains following files
 
 - URL_Shortener.cpp : Contains the source code.
 - URL_Shortener.exe : Execution file
